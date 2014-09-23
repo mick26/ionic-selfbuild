@@ -1,0 +1,14 @@
+
+
+<ion-view title="Self-build Stages">
+  <ion-nav-buttons side="right">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header">
+    <ion-list>
+      <ion-item ng-repeat="buildtask in buildtasks" href="#/app/buildtasks/{{buildtask.id}}">
+        {{buildtask.title}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
