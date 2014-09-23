@@ -29,10 +29,10 @@ Uses the following concepts:
 ## Android Simulator Screen Shots
 
 
-<img width="300" src=https://raw.github.com/mick26/ionic-selfbuild/screen-shots/about.png "image 1"></img>
-<img width="300" src=https://raw.github.com/mick26/ionic-selfbuild/screen-shots/list.png "image 2"></img>
-<img width="300" src=https://raw.github.com/mick26/ionic-selfbuild/screen-shots/detail.png "image 3"></img>
-<img width="300" src=https://raw.github.com/mick26/ionic-selfbuild/screen-shots/menu.png "image 4"></img>
+<img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/about.PNG "image 1"></img>
+<img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/list.png "image 2"></img>
+<img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/detail.png "image 3"></img>
+<img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/menu.png "image 4"></img>
 
 
 
