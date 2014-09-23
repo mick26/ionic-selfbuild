@@ -28,9 +28,10 @@ Uses the following concepts:
 
 ## Android Simulator Screen Shots
 
+<img width="300" src=ionic-selfbuild/blob/master/screen-shots/about.PNG "image 1"></img>
 
-<img width="300" src=./blob/master/screen-shots/about.PNG "image 1"></img>
-<img width="300" src=./blob/master/screen-shots/list.PNG "image 2"></img>
+<img width="300" src=blob/master/screen-shots/about.PNG "image 1"></img>
+<img width="300" src=/blob/master/screen-shots/list.PNG "image 2"></img>
 <img width="300" src=./blob/master/screen-shots/detail.PNG "image 3"></img>
 <img width="300" src=../blob/master/screen-shots/menu.PNG "image 4"></img>
 
