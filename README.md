@@ -31,9 +31,9 @@ Uses the following concepts:
 
 
 <img width="300" src=screen-shots/about.PNG "image 1"></img>
-<img width="300" src=/screen-shots/list.PNG "image 2"></img>
-<img width="300" src=./screen-shots/detail.PNG "image 3"></img>
-<img width="300" src=../screen-shots/menu.PNG "image 4"></img>
+<img width="300" src=screen-shots/list.PNG "image 2"></img>
+<img width="300" src=screen-shots/detail.PNG "image 3"></img>
+<img width="300" src=screen-shots/menu.PNG "image 4"></img>
 
 
 
