@@ -25,16 +25,20 @@ Uses the following concepts:
 
 
 
-
 ## Android Simulator Screen Shots
 
 
+<div align="center">
+		<img width="45%" src="screen-shots/about.PNG" alt="About screen" title="About screen"</img>
+		<img height="0" width="8px">
+		<img width="45%" src="screen-shots/list.PNG" alt="List screen" title="List screen"></img>
+</div>
 
-<img width="50%" src="screen-shots/about.PNG" "image 1" "caption"></img>
-<img width="50%" src="screen-shots/list.PNG" "image 2"></img>
-<img width="50%" src="screen-shots/detail.PNG" "image 3"></img>
-<img width="50%" src="screen-shots/menu.PNG" "image 4"></img>
-
+<div align="center">
+	<img width="45%" src="screen-shots/detail.PNG" alt="Detail screen" title="Detail screen"></img>
+	<img height="0" width="8px">
+	<img width="45%" src="screen-shots/menu.PNG" alt="Menu screen" title="Menu screen"></img>
+</div>
 
 
 <!-- 
@@ -42,7 +46,6 @@ Uses the following concepts:
 <img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/list.PNG "image 2"></img>
 <img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/detail.PNG "image 3"></img>
 <img width="300" src=https://github.com/mick26/ionic-selfbuild/blob/master/screen-shots/menu.PNG "image 4"></img>
-
  -->
 
 
