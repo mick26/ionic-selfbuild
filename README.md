@@ -3,7 +3,7 @@
 An Ionic-AngularJS Hybrid Mobile App detailing some of the stages involved in a recent dormer self-build.
 
 Programmed using the [Ionic Framework](http://ionicframework.com/).
-The Ionic Framework allows native type mobile apps to be created using AngularJS, HTML5, CSS and Cordova
+The Ionic Framework allows native type mobile apps to be created using AngularJS, HTML5, CSS and [Cordova](http://cordova.apache.org/)
 
 
 ## App Details
@@ -23,6 +23,10 @@ Uses the following concepts:
 
 * Iconicons : Ionic icons
 
+
+## Installation
+
+Available on the Google Play store under the name _ionic selfbuild_.
 
 
 ## Android Simulator Screen Shots
