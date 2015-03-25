@@ -1,7 +1,8 @@
 /**
  * Module - main App module
  */
-angular.module('selfbuildApp', ['ionic', 'selfbuildApp.controllers', 'selfbuildApp.services'])
+angular.module('selfbuildApp', ['ionic', 'ngSanitize', 
+  'selfbuildApp.controllers', 'selfbuildApp.services'])
 
 
 .run(function($ionicPlatform) {

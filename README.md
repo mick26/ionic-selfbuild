@@ -53,6 +53,9 @@ Available on the Google Play store under the name _ionic selfbuild_.
  -->
 
 
+<hr>
 
-
-Michael Cullen 2014
+<div align="center">
+Michael Cullen <br/>
+2014-2015
+</div>
